@@ -1,4 +1,5 @@
-# Churrascometro
-Calcula a quantidade de carne, cerveja e refrigerante de um churrasco levando em conta a quantidade de adultos, crianças e do tempo de duração do churrasco
+# Planejador de Churrasco
 
-![teste](https://user-images.githubusercontent.com/47155635/193379476-aaf1c9dd-ef0f-4f4f-94a8-a31d11e37092.gif)
+Aplicativo que calcula a quantidade ideal de carne, cerveja e refrigerante para um churrasco, considerando o número de adultos, crianças e a duração do evento. Desenvolvido para otimizar o planejamento e evitar desperdícios.
+
+![imagem](https://user-images.githubusercontent.com/47155635/193379476-aaf1c9dd-ef0f-4f4f-94a8-a31d11e37092.gif)
